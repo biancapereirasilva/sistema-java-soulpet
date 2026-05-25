@@ -63,7 +63,3 @@ A SoulPet não é um aplicativo independente, mas sim uma **feature integrada à
 Projeto desenvolvido para o **Challenge FIAP** — Faculdade de Informática e Administração Paulista, 2026.
  
 > O Challenge é uma metodologia da FIAP onde empresas reais propõem problemas para que os alunos desenvolvam soluções inovadoras. A SoulPet foi desenvolvida em resposta ao desafio proposto pela **SoulUp**.
-
-Projeto desenvolvido para o **Challenge FIAP** — Faculdade de Informática e Administração Paulista, 2026.
-
-> O Challenge é uma metodologia da FIAP onde empresas reais propõem problemas para que os alunos desenvolvam soluções inovadoras. A SoulPet foi desenvolvida em resposta ao desafio proposto pela **SoulUp**.
